@@ -1,4 +1,5 @@
-# Generative-AI-Chatbot
+# Generative-AI-Chatbot with LangChain Integration
+
 
 Technical Stack: Python, Streamlit, LangChain, Ollama, OpenAI, Langsmith
 
